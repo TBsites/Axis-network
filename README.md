@@ -34,6 +34,8 @@ We have made our site super hard to block by making it run on about:blank! go to
 
 url: https://axis-safe.vercel.app/
 
+url: https://axis-beta.vercel.app/
+
 git hub: https://github.com/ChillYTT/Axis-Beta
 
 # fyi for axis beta
