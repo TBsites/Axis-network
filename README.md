@@ -8,7 +8,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/ChillYTT/Axis-network">
-    <img src=".https://github.com/ChillYTT/Axis-network/blob/main/images/hello-icon-128.png" alt="Logo" width="80" height="80">
+    <img src="https://axis-net.vercel.app/images/hello-icon-128.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Axis Games</h3>
