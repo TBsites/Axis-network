@@ -72,7 +72,7 @@ Note: This document is subject to change at any time. When it does, the changes 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
 
-So far so good nothing really planed/no massive updates coming soon
+So far so good nothing really planed/no massive updates coming soon. And since no one reads this I am depresed so ye (no im not emo and yes I am serious)
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
