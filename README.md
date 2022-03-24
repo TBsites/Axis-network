@@ -72,8 +72,7 @@ Note: This document is subject to change at any time. When it does, the changes 
 <!-- ROADMAP -->
 ## 🚧 Roadmap
 
-So far so good nothing really planed/no massive updates coming soon. And since no one reads this I am depresed so ye (no im not emo and yes I am serious)
-
+So far so good nothing really planed/no massive updates coming soon. 
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
